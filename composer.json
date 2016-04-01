@@ -1,0 +1,15 @@
+{
+    "name": "taalendigitaal/select2-bootstrap-theme",
+    "description": "A theme for Select2 v4 and Bootstrap 3.",
+    "type": "component",
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "files": [
+                "dist/select2-bootstrap.css"
+            ]
+        }
+    }
+}
